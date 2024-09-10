@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Hi! I'm here to help you create a personalized diet plan. Let's start by creating your profile. What's your name?",
+    "answer": "luca"
+  },
+  {
+    "question": "Can you tell me about your dietary preferences, including what you like to eat and what you don't like to eat?",
+    "answer": "I am vegetarian, and I don't like to eat fruits at all"
+  },
+  {
+    "question": "Could you please share if you have any food allergies or medical conditions that we should be aware of while creating your diet plan?",
+    "answer": "I am allergic to fish"
+  },
+  {
+    "question": "Do you have any specific fitness or health goals you are aiming to achieve with this diet plan, such as weight loss, muscle gain, improved energy levels, or managing a particular health condition?",
+    "answer": "I want to gain muscle"
+  },
+  {
+    "question": "Can you tell me about your lifestyle and daily routine, including how often you exercise and what type of physical activities you engage in?",
+    "answer": "I wake up at 7, I have a 9-5 job and I usually have only two meals during the day, and 2 snacks"
+  },
+  {
+    "question": "Can you describe your current exercise routine in detail, including what types of exercises you do, how often you work out, and for how long each session usually lasts?",
+    "answer": "I go to the gym 2 times a week"
+  },
+  {
+    "question": "Would you be open to sharing more details about your sleep patterns, like what time you usually go to bed and how many hours of quality sleep you get on average?",
+    "answer": "I sleep 6 hours a day"
+  },
+  {
+    "question": "What is your current height and weight?",
+    "answer": "180 cm and 60 kg"
+  },
+  {
+    "question": "Have you tried any specific diets before, and if so, what was your experience with them?",
+    "answer": "I tried to have a 5 meals diet but I couldn't eat all that food"
+  },
+  {
+    "question": "What time do you usually have your two meals and snacks during the day, and what do they typically consist of?",
+    "answer": "I usually have some buiscuits with coffee as snacks and for lunch I usually have some chicken wraps"
+  },
+  {
+    "question": "What do you usually eat for dinner, and at what time do you have it?",
+    "answer": "I don't usually eat dinner"
+  },
+  {
+    "question": "What types of gym exercises do you focus on during your two weekly sessions (e.g., weightlifting, cardio, HIIT)?",
+    "answer": "weightlifting"
+  },
+  {
+    "question": "\"Can you tell me if you take any supplements or medications regularly, and if so, what are they?\"",
+    "answer": "I don't take any"
+  },
+  {
+    "question": "What time do you typically go to bed, and do you have any nighttime routines or activities that might affect your sleep quality?",
+    "answer": "I go to bad at 12 pm"
+  }
+]
